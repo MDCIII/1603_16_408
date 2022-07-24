@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Hyesan City"@eng-Latn ;
-    wdata:q7200235 "KP0101" ;
+    wdata:Q7200235 "KP0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -225,7 +225,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:10> ;
     skos:prefLabel "Pyongyang"@eng-Latn ;
-    wdata:q7200235 "KP1001" ;
+    wdata:Q7200235 "KP1001" ;
 .
 
 <urn:mdciii:1603:16:408:2:1007>
@@ -237,7 +237,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:10> ;
     skos:prefLabel "Unjong Dist."@eng-Latn ;
-    wdata:q7200235 "KP1007" ;
+    wdata:Q7200235 "KP1007" ;
 .
 
 <urn:mdciii:1603:16:408:2:102>
@@ -249,7 +249,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Samsu"@eng-Latn ;
-    wdata:q7200235 "KP0102" ;
+    wdata:Q7200235 "KP0102" ;
 .
 
 <urn:mdciii:1603:16:408:2:1023>
@@ -261,7 +261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:10> ;
     skos:prefLabel "Kangdong"@eng-Latn ;
-    wdata:q7200235 "KP1023" ;
+    wdata:Q7200235 "KP1023" ;
 .
 
 <urn:mdciii:1603:16:408:2:103>
@@ -273,7 +273,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Kim Jong Suk"@eng-Latn ;
-    wdata:q7200235 "KP0103" ;
+    wdata:Q7200235 "KP0103" ;
 .
 
 <urn:mdciii:1603:16:408:2:104>
@@ -285,7 +285,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Kim Hyong Jik"@eng-Latn ;
-    wdata:q7200235 "KP0104" ;
+    wdata:Q7200235 "KP0104" ;
 .
 
 <urn:mdciii:1603:16:408:2:105>
@@ -297,7 +297,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Kim Hyong Gwon"@eng-Latn ;
-    wdata:q7200235 "KP0105" ;
+    wdata:Q7200235 "KP0105" ;
 .
 
 <urn:mdciii:1603:16:408:2:106>
@@ -309,7 +309,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Pochon"@eng-Latn ;
-    wdata:q7200235 "KP0106" ;
+    wdata:Q7200235 "KP0106" ;
 .
 
 <urn:mdciii:1603:16:408:2:107>
@@ -321,7 +321,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Samjiyon"@eng-Latn ;
-    wdata:q7200235 "KP0107" ;
+    wdata:Q7200235 "KP0107" ;
 .
 
 <urn:mdciii:1603:16:408:2:108>
@@ -333,7 +333,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Taehongdan"@eng-Latn ;
-    wdata:q7200235 "KP0108" ;
+    wdata:Q7200235 "KP0108" ;
 .
 
 <urn:mdciii:1603:16:408:2:109>
@@ -345,7 +345,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Unhung"@eng-Latn ;
-    wdata:q7200235 "KP0109" ;
+    wdata:Q7200235 "KP0109" ;
 .
 
 <urn:mdciii:1603:16:408:2:110>
@@ -357,7 +357,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Paekam"@eng-Latn ;
-    wdata:q7200235 "KP0110" ;
+    wdata:Q7200235 "KP0110" ;
 .
 
 <urn:mdciii:1603:16:408:2:1102>
@@ -369,7 +369,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:11> ;
     skos:prefLabel "Nampo City"@eng-Latn ;
-    wdata:q7200235 "KP1102" ;
+    wdata:Q7200235 "KP1102" ;
 .
 
 <urn:mdciii:1603:16:408:2:1103>
@@ -381,7 +381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:11> ;
     skos:prefLabel "Onchon"@eng-Latn ;
-    wdata:q7200235 "KP1103" ;
+    wdata:Q7200235 "KP1103" ;
 .
 
 <urn:mdciii:1603:16:408:2:1104>
@@ -393,7 +393,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:11> ;
     skos:prefLabel "Ryonggang"@eng-Latn ;
-    wdata:q7200235 "KP1104" ;
+    wdata:Q7200235 "KP1104" ;
 .
 
 <urn:mdciii:1603:16:408:2:1105>
@@ -405,7 +405,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:11> ;
     skos:prefLabel "Taean"@eng-Latn ;
-    wdata:q7200235 "KP1105" ;
+    wdata:Q7200235 "KP1105" ;
 .
 
 <urn:mdciii:1603:16:408:2:1106>
@@ -417,7 +417,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:11> ;
     skos:prefLabel "Kangso"@eng-Latn ;
-    wdata:q7200235 "KP1106" ;
+    wdata:Q7200235 "KP1106" ;
 .
 
 <urn:mdciii:1603:16:408:2:1107>
@@ -429,7 +429,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:11> ;
     skos:prefLabel "Chollima"@eng-Latn ;
-    wdata:q7200235 "KP1107" ;
+    wdata:Q7200235 "KP1107" ;
 .
 
 <urn:mdciii:1603:16:408:2:111>
@@ -441,7 +441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Kabsan"@eng-Latn ;
-    wdata:q7200235 "KP0111" ;
+    wdata:Q7200235 "KP0111" ;
 .
 
 <urn:mdciii:1603:16:408:2:112>
@@ -453,7 +453,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:1> ;
     skos:prefLabel "Phungso"@eng-Latn ;
-    wdata:q7200235 "KP0112" ;
+    wdata:Q7200235 "KP0112" ;
 .
 
 <urn:mdciii:1603:16:408:2:201>
@@ -465,7 +465,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Rason City"@eng-Latn ;
-    wdata:q7200235 "KP0201" ;
+    wdata:Q7200235 "KP0201" ;
 .
 
 <urn:mdciii:1603:16:408:2:202>
@@ -477,7 +477,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Kim Chaek City"@eng-Latn ;
-    wdata:q7200235 "KP0202" ;
+    wdata:Q7200235 "KP0202" ;
 .
 
 <urn:mdciii:1603:16:408:2:203>
@@ -489,7 +489,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Hoeryong City"@eng-Latn ;
-    wdata:q7200235 "KP0203" ;
+    wdata:Q7200235 "KP0203" ;
 .
 
 <urn:mdciii:1603:16:408:2:205>
@@ -501,7 +501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Chongjin City"@eng-Latn ;
-    wdata:q7200235 "KP0205" ;
+    wdata:Q7200235 "KP0205" ;
 .
 
 <urn:mdciii:1603:16:408:2:211>
@@ -513,7 +513,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Kilju"@eng-Latn ;
-    wdata:q7200235 "KP0211" ;
+    wdata:Q7200235 "KP0211" ;
 .
 
 <urn:mdciii:1603:16:408:2:212>
@@ -525,7 +525,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Hwadae"@eng-Latn ;
-    wdata:q7200235 "KP0212" ;
+    wdata:Q7200235 "KP0212" ;
 .
 
 <urn:mdciii:1603:16:408:2:213>
@@ -537,7 +537,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Myongchon"@eng-Latn ;
-    wdata:q7200235 "KP0213" ;
+    wdata:Q7200235 "KP0213" ;
 .
 
 <urn:mdciii:1603:16:408:2:214>
@@ -549,7 +549,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Myonggan"@eng-Latn ;
-    wdata:q7200235 "KP0214" ;
+    wdata:Q7200235 "KP0214" ;
 .
 
 <urn:mdciii:1603:16:408:2:215>
@@ -561,7 +561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Orang"@eng-Latn ;
-    wdata:q7200235 "KP0215" ;
+    wdata:Q7200235 "KP0215" ;
 .
 
 <urn:mdciii:1603:16:408:2:216>
@@ -573,7 +573,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Kyongsong"@eng-Latn ;
-    wdata:q7200235 "KP0216" ;
+    wdata:Q7200235 "KP0216" ;
 .
 
 <urn:mdciii:1603:16:408:2:217>
@@ -585,7 +585,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Yonsa"@eng-Latn ;
-    wdata:q7200235 "KP0217" ;
+    wdata:Q7200235 "KP0217" ;
 .
 
 <urn:mdciii:1603:16:408:2:218>
@@ -597,7 +597,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Musan"@eng-Latn ;
-    wdata:q7200235 "KP0218" ;
+    wdata:Q7200235 "KP0218" ;
 .
 
 <urn:mdciii:1603:16:408:2:219>
@@ -609,7 +609,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Puryong"@eng-Latn ;
-    wdata:q7200235 "KP0219" ;
+    wdata:Q7200235 "KP0219" ;
 .
 
 <urn:mdciii:1603:16:408:2:220>
@@ -621,7 +621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Onsong"@eng-Latn ;
-    wdata:q7200235 "KP0220" ;
+    wdata:Q7200235 "KP0220" ;
 .
 
 <urn:mdciii:1603:16:408:2:221>
@@ -633,7 +633,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Kyongwon"@eng-Latn ;
-    wdata:q7200235 "KP0221" ;
+    wdata:Q7200235 "KP0221" ;
 .
 
 <urn:mdciii:1603:16:408:2:222>
@@ -645,7 +645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:2> ;
     skos:prefLabel "Kyonghung"@eng-Latn ;
-    wdata:q7200235 "KP0222" ;
+    wdata:Q7200235 "KP0222" ;
 .
 
 <urn:mdciii:1603:16:408:2:301>
@@ -657,7 +657,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Sinpho City"@eng-Latn ;
-    wdata:q7200235 "KP0301" ;
+    wdata:Q7200235 "KP0301" ;
 .
 
 <urn:mdciii:1603:16:408:2:302>
@@ -669,7 +669,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Tanchon City"@eng-Latn ;
-    wdata:q7200235 "KP0302" ;
+    wdata:Q7200235 "KP0302" ;
 .
 
 <urn:mdciii:1603:16:408:2:307>
@@ -681,7 +681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Hamhung City"@eng-Latn ;
-    wdata:q7200235 "KP0307" ;
+    wdata:Q7200235 "KP0307" ;
 .
 
 <urn:mdciii:1603:16:408:2:310>
@@ -693,7 +693,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Hamju"@eng-Latn ;
-    wdata:q7200235 "KP0310" ;
+    wdata:Q7200235 "KP0310" ;
 .
 
 <urn:mdciii:1603:16:408:2:311>
@@ -705,7 +705,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Yonggwang"@eng-Latn ;
-    wdata:q7200235 "KP0311" ;
+    wdata:Q7200235 "KP0311" ;
 .
 
 <urn:mdciii:1603:16:408:2:312>
@@ -717,7 +717,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Sinhung"@eng-Latn ;
-    wdata:q7200235 "KP0312" ;
+    wdata:Q7200235 "KP0312" ;
 .
 
 <urn:mdciii:1603:16:408:2:313>
@@ -729,7 +729,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Pujon"@eng-Latn ;
-    wdata:q7200235 "KP0313" ;
+    wdata:Q7200235 "KP0313" ;
 .
 
 <urn:mdciii:1603:16:408:2:314>
@@ -741,7 +741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Jangjin"@eng-Latn ;
-    wdata:q7200235 "KP0314" ;
+    wdata:Q7200235 "KP0314" ;
 .
 
 <urn:mdciii:1603:16:408:2:315>
@@ -753,7 +753,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Jongphyong"@eng-Latn ;
-    wdata:q7200235 "KP0315" ;
+    wdata:Q7200235 "KP0315" ;
 .
 
 <urn:mdciii:1603:16:408:2:316>
@@ -765,7 +765,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Kumya"@eng-Latn ;
-    wdata:q7200235 "KP0316" ;
+    wdata:Q7200235 "KP0316" ;
 .
 
 <urn:mdciii:1603:16:408:2:317>
@@ -777,7 +777,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Yodok"@eng-Latn ;
-    wdata:q7200235 "KP0317" ;
+    wdata:Q7200235 "KP0317" ;
 .
 
 <urn:mdciii:1603:16:408:2:318>
@@ -789,7 +789,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Kowon"@eng-Latn ;
-    wdata:q7200235 "KP0318" ;
+    wdata:Q7200235 "KP0318" ;
 .
 
 <urn:mdciii:1603:16:408:2:319>
@@ -801,7 +801,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Rakwon"@eng-Latn ;
-    wdata:q7200235 "KP0319" ;
+    wdata:Q7200235 "KP0319" ;
 .
 
 <urn:mdciii:1603:16:408:2:320>
@@ -813,7 +813,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Hongwon"@eng-Latn ;
-    wdata:q7200235 "KP0320" ;
+    wdata:Q7200235 "KP0320" ;
 .
 
 <urn:mdciii:1603:16:408:2:321>
@@ -825,7 +825,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Pukchong"@eng-Latn ;
-    wdata:q7200235 "KP0321" ;
+    wdata:Q7200235 "KP0321" ;
 .
 
 <urn:mdciii:1603:16:408:2:322>
@@ -837,7 +837,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Toksong"@eng-Latn ;
-    wdata:q7200235 "KP0322" ;
+    wdata:Q7200235 "KP0322" ;
 .
 
 <urn:mdciii:1603:16:408:2:323>
@@ -849,7 +849,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Riwon"@eng-Latn ;
-    wdata:q7200235 "KP0323" ;
+    wdata:Q7200235 "KP0323" ;
 .
 
 <urn:mdciii:1603:16:408:2:324>
@@ -861,7 +861,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Hochon"@eng-Latn ;
-    wdata:q7200235 "KP0324" ;
+    wdata:Q7200235 "KP0324" ;
 .
 
 <urn:mdciii:1603:16:408:2:325>
@@ -873,7 +873,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Sudong"@eng-Latn ;
-    wdata:q7200235 "KP0325" ;
+    wdata:Q7200235 "KP0325" ;
 .
 
 <urn:mdciii:1603:16:408:2:326>
@@ -885,7 +885,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:3> ;
     skos:prefLabel "Kumho"@eng-Latn ;
-    wdata:q7200235 "KP0326" ;
+    wdata:Q7200235 "KP0326" ;
 .
 
 <urn:mdciii:1603:16:408:2:401>
@@ -897,7 +897,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Wonsan City"@eng-Latn ;
-    wdata:q7200235 "KP0401" ;
+    wdata:Q7200235 "KP0401" ;
 .
 
 <urn:mdciii:1603:16:408:2:402>
@@ -909,7 +909,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Munchon City"@eng-Latn ;
-    wdata:q7200235 "KP0402" ;
+    wdata:Q7200235 "KP0402" ;
 .
 
 <urn:mdciii:1603:16:408:2:403>
@@ -921,7 +921,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Anbyon"@eng-Latn ;
-    wdata:q7200235 "KP0403" ;
+    wdata:Q7200235 "KP0403" ;
 .
 
 <urn:mdciii:1603:16:408:2:404>
@@ -933,7 +933,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Kosan"@eng-Latn ;
-    wdata:q7200235 "KP0404" ;
+    wdata:Q7200235 "KP0404" ;
 .
 
 <urn:mdciii:1603:16:408:2:405>
@@ -945,7 +945,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Thongchon"@eng-Latn ;
-    wdata:q7200235 "KP0405" ;
+    wdata:Q7200235 "KP0405" ;
 .
 
 <urn:mdciii:1603:16:408:2:406>
@@ -957,7 +957,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Kosong"@eng-Latn ;
-    wdata:q7200235 "KP0406" ;
+    wdata:Q7200235 "KP0406" ;
 .
 
 <urn:mdciii:1603:16:408:2:407>
@@ -969,7 +969,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Kumgang"@eng-Latn ;
-    wdata:q7200235 "KP0407" ;
+    wdata:Q7200235 "KP0407" ;
 .
 
 <urn:mdciii:1603:16:408:2:408>
@@ -981,7 +981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Changdo"@eng-Latn ;
-    wdata:q7200235 "KP0408" ;
+    wdata:Q7200235 "KP0408" ;
 .
 
 <urn:mdciii:1603:16:408:2:409>
@@ -993,7 +993,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Kimhwa"@eng-Latn ;
-    wdata:q7200235 "KP0409" ;
+    wdata:Q7200235 "KP0409" ;
 .
 
 <urn:mdciii:1603:16:408:2:410>
@@ -1005,7 +1005,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Hoeyang"@eng-Latn ;
-    wdata:q7200235 "KP0410" ;
+    wdata:Q7200235 "KP0410" ;
 .
 
 <urn:mdciii:1603:16:408:2:411>
@@ -1017,7 +1017,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Sepho"@eng-Latn ;
-    wdata:q7200235 "KP0411" ;
+    wdata:Q7200235 "KP0411" ;
 .
 
 <urn:mdciii:1603:16:408:2:412>
@@ -1029,7 +1029,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Phyonggang"@eng-Latn ;
-    wdata:q7200235 "KP0412" ;
+    wdata:Q7200235 "KP0412" ;
 .
 
 <urn:mdciii:1603:16:408:2:413>
@@ -1041,7 +1041,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Cholwon"@eng-Latn ;
-    wdata:q7200235 "KP0413" ;
+    wdata:Q7200235 "KP0413" ;
 .
 
 <urn:mdciii:1603:16:408:2:414>
@@ -1053,7 +1053,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Ichon"@eng-Latn ;
-    wdata:q7200235 "KP0414" ;
+    wdata:Q7200235 "KP0414" ;
 .
 
 <urn:mdciii:1603:16:408:2:415>
@@ -1065,7 +1065,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Phangyo"@eng-Latn ;
-    wdata:q7200235 "KP0415" ;
+    wdata:Q7200235 "KP0415" ;
 .
 
 <urn:mdciii:1603:16:408:2:416>
@@ -1077,7 +1077,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Popdong"@eng-Latn ;
-    wdata:q7200235 "KP0416" ;
+    wdata:Q7200235 "KP0416" ;
 .
 
 <urn:mdciii:1603:16:408:2:417>
@@ -1089,7 +1089,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:4> ;
     skos:prefLabel "Chonnae"@eng-Latn ;
-    wdata:q7200235 "KP0417" ;
+    wdata:Q7200235 "KP0417" ;
 .
 
 <urn:mdciii:1603:16:408:2:501>
@@ -1101,7 +1101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Kanggye City"@eng-Latn ;
-    wdata:q7200235 "KP0501" ;
+    wdata:Q7200235 "KP0501" ;
 .
 
 <urn:mdciii:1603:16:408:2:502>
@@ -1113,7 +1113,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Manpho City"@eng-Latn ;
-    wdata:q7200235 "KP0502" ;
+    wdata:Q7200235 "KP0502" ;
 .
 
 <urn:mdciii:1603:16:408:2:503>
@@ -1125,7 +1125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Huichon City"@eng-Latn ;
-    wdata:q7200235 "KP0503" ;
+    wdata:Q7200235 "KP0503" ;
 .
 
 <urn:mdciii:1603:16:408:2:504>
@@ -1137,7 +1137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Rangrim"@eng-Latn ;
-    wdata:q7200235 "KP0504" ;
+    wdata:Q7200235 "KP0504" ;
 .
 
 <urn:mdciii:1603:16:408:2:505>
@@ -1149,7 +1149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Jonchon"@eng-Latn ;
-    wdata:q7200235 "KP0505" ;
+    wdata:Q7200235 "KP0505" ;
 .
 
 <urn:mdciii:1603:16:408:2:506>
@@ -1161,7 +1161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Songgan"@eng-Latn ;
-    wdata:q7200235 "KP0506" ;
+    wdata:Q7200235 "KP0506" ;
 .
 
 <urn:mdciii:1603:16:408:2:507>
@@ -1173,7 +1173,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Janggang"@eng-Latn ;
-    wdata:q7200235 "KP0507" ;
+    wdata:Q7200235 "KP0507" ;
 .
 
 <urn:mdciii:1603:16:408:2:508>
@@ -1185,7 +1185,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Hwaphyong"@eng-Latn ;
-    wdata:q7200235 "KP0508" ;
+    wdata:Q7200235 "KP0508" ;
 .
 
 <urn:mdciii:1603:16:408:2:509>
@@ -1197,7 +1197,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Junggang"@eng-Latn ;
-    wdata:q7200235 "KP0509" ;
+    wdata:Q7200235 "KP0509" ;
 .
 
 <urn:mdciii:1603:16:408:2:510>
@@ -1209,7 +1209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Jasong"@eng-Latn ;
-    wdata:q7200235 "KP0510" ;
+    wdata:Q7200235 "KP0510" ;
 .
 
 <urn:mdciii:1603:16:408:2:511>
@@ -1221,7 +1221,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Sijung"@eng-Latn ;
-    wdata:q7200235 "KP0511" ;
+    wdata:Q7200235 "KP0511" ;
 .
 
 <urn:mdciii:1603:16:408:2:512>
@@ -1233,7 +1233,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Wiwon"@eng-Latn ;
-    wdata:q7200235 "KP0512" ;
+    wdata:Q7200235 "KP0512" ;
 .
 
 <urn:mdciii:1603:16:408:2:513>
@@ -1245,7 +1245,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Chosan"@eng-Latn ;
-    wdata:q7200235 "KP0513" ;
+    wdata:Q7200235 "KP0513" ;
 .
 
 <urn:mdciii:1603:16:408:2:514>
@@ -1257,7 +1257,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Usi"@eng-Latn ;
-    wdata:q7200235 "KP0514" ;
+    wdata:Q7200235 "KP0514" ;
 .
 
 <urn:mdciii:1603:16:408:2:515>
@@ -1269,7 +1269,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Kophung"@eng-Latn ;
-    wdata:q7200235 "KP0515" ;
+    wdata:Q7200235 "KP0515" ;
 .
 
 <urn:mdciii:1603:16:408:2:516>
@@ -1281,7 +1281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Songwon"@eng-Latn ;
-    wdata:q7200235 "KP0516" ;
+    wdata:Q7200235 "KP0516" ;
 .
 
 <urn:mdciii:1603:16:408:2:517>
@@ -1293,7 +1293,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Tongsin"@eng-Latn ;
-    wdata:q7200235 "KP0517" ;
+    wdata:Q7200235 "KP0517" ;
 .
 
 <urn:mdciii:1603:16:408:2:518>
@@ -1305,7 +1305,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:5> ;
     skos:prefLabel "Ryongrim"@eng-Latn ;
-    wdata:q7200235 "KP0518" ;
+    wdata:Q7200235 "KP0518" ;
 .
 
 <urn:mdciii:1603:16:408:2:601>
@@ -1317,7 +1317,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Sinuiju City"@eng-Latn ;
-    wdata:q7200235 "KP0601" ;
+    wdata:Q7200235 "KP0601" ;
 .
 
 <urn:mdciii:1603:16:408:2:602>
@@ -1329,7 +1329,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Jongju City"@eng-Latn ;
-    wdata:q7200235 "KP0602" ;
+    wdata:Q7200235 "KP0602" ;
 .
 
 <urn:mdciii:1603:16:408:2:603>
@@ -1341,7 +1341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Kusong City"@eng-Latn ;
-    wdata:q7200235 "KP0603" ;
+    wdata:Q7200235 "KP0603" ;
 .
 
 <urn:mdciii:1603:16:408:2:604>
@@ -1353,7 +1353,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Pyokdong"@eng-Latn ;
-    wdata:q7200235 "KP0604" ;
+    wdata:Q7200235 "KP0604" ;
 .
 
 <urn:mdciii:1603:16:408:2:605>
@@ -1365,7 +1365,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Phihyon"@eng-Latn ;
-    wdata:q7200235 "KP0605" ;
+    wdata:Q7200235 "KP0605" ;
 .
 
 <urn:mdciii:1603:16:408:2:606>
@@ -1377,7 +1377,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Ryongchon"@eng-Latn ;
-    wdata:q7200235 "KP0606" ;
+    wdata:Q7200235 "KP0606" ;
 .
 
 <urn:mdciii:1603:16:408:2:607>
@@ -1389,7 +1389,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Yomju"@eng-Latn ;
-    wdata:q7200235 "KP0607" ;
+    wdata:Q7200235 "KP0607" ;
 .
 
 <urn:mdciii:1603:16:408:2:608>
@@ -1401,7 +1401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Cholsan"@eng-Latn ;
-    wdata:q7200235 "KP0608" ;
+    wdata:Q7200235 "KP0608" ;
 .
 
 <urn:mdciii:1603:16:408:2:609>
@@ -1413,7 +1413,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Tongrim"@eng-Latn ;
-    wdata:q7200235 "KP0609" ;
+    wdata:Q7200235 "KP0609" ;
 .
 
 <urn:mdciii:1603:16:408:2:610>
@@ -1425,7 +1425,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Sonchon"@eng-Latn ;
-    wdata:q7200235 "KP0610" ;
+    wdata:Q7200235 "KP0610" ;
 .
 
 <urn:mdciii:1603:16:408:2:611>
@@ -1437,7 +1437,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Kwaksan"@eng-Latn ;
-    wdata:q7200235 "KP0611" ;
+    wdata:Q7200235 "KP0611" ;
 .
 
 <urn:mdciii:1603:16:408:2:612>
@@ -1449,7 +1449,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Unjon"@eng-Latn ;
-    wdata:q7200235 "KP0612" ;
+    wdata:Q7200235 "KP0612" ;
 .
 
 <urn:mdciii:1603:16:408:2:613>
@@ -1461,7 +1461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Pakchon"@eng-Latn ;
-    wdata:q7200235 "KP0613" ;
+    wdata:Q7200235 "KP0613" ;
 .
 
 <urn:mdciii:1603:16:408:2:614>
@@ -1473,7 +1473,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Nyongbyon"@eng-Latn ;
-    wdata:q7200235 "KP0614" ;
+    wdata:Q7200235 "KP0614" ;
 .
 
 <urn:mdciii:1603:16:408:2:615>
@@ -1485,7 +1485,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Kujang"@eng-Latn ;
-    wdata:q7200235 "KP0615" ;
+    wdata:Q7200235 "KP0615" ;
 .
 
 <urn:mdciii:1603:16:408:2:616>
@@ -1497,7 +1497,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Hyangsan"@eng-Latn ;
-    wdata:q7200235 "KP0616" ;
+    wdata:Q7200235 "KP0616" ;
 .
 
 <urn:mdciii:1603:16:408:2:617>
@@ -1509,7 +1509,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Unsan"@eng-Latn ;
-    wdata:q7200235 "KP0617" ;
+    wdata:Q7200235 "KP0617" ;
 .
 
 <urn:mdciii:1603:16:408:2:618>
@@ -1521,7 +1521,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Thaechon"@eng-Latn ;
-    wdata:q7200235 "KP0618" ;
+    wdata:Q7200235 "KP0618" ;
 .
 
 <urn:mdciii:1603:16:408:2:619>
@@ -1533,7 +1533,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Chonma"@eng-Latn ;
-    wdata:q7200235 "KP0619" ;
+    wdata:Q7200235 "KP0619" ;
 .
 
 <urn:mdciii:1603:16:408:2:620>
@@ -1545,7 +1545,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Uiju"@eng-Latn ;
-    wdata:q7200235 "KP0620" ;
+    wdata:Q7200235 "KP0620" ;
 .
 
 <urn:mdciii:1603:16:408:2:621>
@@ -1557,7 +1557,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Sakju"@eng-Latn ;
-    wdata:q7200235 "KP0621" ;
+    wdata:Q7200235 "KP0621" ;
 .
 
 <urn:mdciii:1603:16:408:2:622>
@@ -1569,7 +1569,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Taegwan"@eng-Latn ;
-    wdata:q7200235 "KP0622" ;
+    wdata:Q7200235 "KP0622" ;
 .
 
 <urn:mdciii:1603:16:408:2:623>
@@ -1581,7 +1581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Changsong"@eng-Latn ;
-    wdata:q7200235 "KP0623" ;
+    wdata:Q7200235 "KP0623" ;
 .
 
 <urn:mdciii:1603:16:408:2:624>
@@ -1593,7 +1593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Tongchang"@eng-Latn ;
-    wdata:q7200235 "KP0624" ;
+    wdata:Q7200235 "KP0624" ;
 .
 
 <urn:mdciii:1603:16:408:2:625>
@@ -1605,7 +1605,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:6> ;
     skos:prefLabel "Sindo"@eng-Latn ;
-    wdata:q7200235 "KP0625" ;
+    wdata:Q7200235 "KP0625" ;
 .
 
 <urn:mdciii:1603:16:408:2:701>
@@ -1617,7 +1617,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Pyongsong City"@eng-Latn ;
-    wdata:q7200235 "KP0701" ;
+    wdata:Q7200235 "KP0701" ;
 .
 
 <urn:mdciii:1603:16:408:2:703>
@@ -1629,7 +1629,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Anju City"@eng-Latn ;
-    wdata:q7200235 "KP0703" ;
+    wdata:Q7200235 "KP0703" ;
 .
 
 <urn:mdciii:1603:16:408:2:704>
@@ -1641,7 +1641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Kaechon City"@eng-Latn ;
-    wdata:q7200235 "KP0704" ;
+    wdata:Q7200235 "KP0704" ;
 .
 
 <urn:mdciii:1603:16:408:2:705>
@@ -1653,7 +1653,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Sunchon City"@eng-Latn ;
-    wdata:q7200235 "KP0705" ;
+    wdata:Q7200235 "KP0705" ;
 .
 
 <urn:mdciii:1603:16:408:2:706>
@@ -1665,7 +1665,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Tokchon City"@eng-Latn ;
-    wdata:q7200235 "KP0706" ;
+    wdata:Q7200235 "KP0706" ;
 .
 
 <urn:mdciii:1603:16:408:2:707>
@@ -1677,7 +1677,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Taedong"@eng-Latn ;
-    wdata:q7200235 "KP0707" ;
+    wdata:Q7200235 "KP0707" ;
 .
 
 <urn:mdciii:1603:16:408:2:708>
@@ -1689,7 +1689,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Jungsan"@eng-Latn ;
-    wdata:q7200235 "KP0708" ;
+    wdata:Q7200235 "KP0708" ;
 .
 
 <urn:mdciii:1603:16:408:2:714>
@@ -1701,7 +1701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Pyongwon"@eng-Latn ;
-    wdata:q7200235 "KP0714" ;
+    wdata:Q7200235 "KP0714" ;
 .
 
 <urn:mdciii:1603:16:408:2:715>
@@ -1713,7 +1713,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Sukchon"@eng-Latn ;
-    wdata:q7200235 "KP0715" ;
+    wdata:Q7200235 "KP0715" ;
 .
 
 <urn:mdciii:1603:16:408:2:716>
@@ -1725,7 +1725,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Mundok"@eng-Latn ;
-    wdata:q7200235 "KP0716" ;
+    wdata:Q7200235 "KP0716" ;
 .
 
 <urn:mdciii:1603:16:408:2:717>
@@ -1737,7 +1737,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Songchon"@eng-Latn ;
-    wdata:q7200235 "KP0717" ;
+    wdata:Q7200235 "KP0717" ;
 .
 
 <urn:mdciii:1603:16:408:2:718>
@@ -1749,7 +1749,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Sinyang"@eng-Latn ;
-    wdata:q7200235 "KP0718" ;
+    wdata:Q7200235 "KP0718" ;
 .
 
 <urn:mdciii:1603:16:408:2:719>
@@ -1761,7 +1761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Yangdok"@eng-Latn ;
-    wdata:q7200235 "KP0719" ;
+    wdata:Q7200235 "KP0719" ;
 .
 
 <urn:mdciii:1603:16:408:2:720>
@@ -1773,7 +1773,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Unsan"@eng-Latn ;
-    wdata:q7200235 "KP0720" ;
+    wdata:Q7200235 "KP0720" ;
 .
 
 <urn:mdciii:1603:16:408:2:721>
@@ -1785,7 +1785,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Pukchang"@eng-Latn ;
-    wdata:q7200235 "KP0721" ;
+    wdata:Q7200235 "KP0721" ;
 .
 
 <urn:mdciii:1603:16:408:2:722>
@@ -1797,7 +1797,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Maengsan"@eng-Latn ;
-    wdata:q7200235 "KP0722" ;
+    wdata:Q7200235 "KP0722" ;
 .
 
 <urn:mdciii:1603:16:408:2:723>
@@ -1809,7 +1809,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Hoechang"@eng-Latn ;
-    wdata:q7200235 "KP0723" ;
+    wdata:Q7200235 "KP0723" ;
 .
 
 <urn:mdciii:1603:16:408:2:724>
@@ -1821,7 +1821,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Nyongwon"@eng-Latn ;
-    wdata:q7200235 "KP0724" ;
+    wdata:Q7200235 "KP0724" ;
 .
 
 <urn:mdciii:1603:16:408:2:725>
@@ -1833,7 +1833,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Taehung"@eng-Latn ;
-    wdata:q7200235 "KP0725" ;
+    wdata:Q7200235 "KP0725" ;
 .
 
 <urn:mdciii:1603:16:408:2:726>
@@ -1845,7 +1845,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Chongnam"@eng-Latn ;
-    wdata:q7200235 "KP0726" ;
+    wdata:Q7200235 "KP0726" ;
 .
 
 <urn:mdciii:1603:16:408:2:727>
@@ -1857,7 +1857,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:7> ;
     skos:prefLabel "Tukjang"@eng-Latn ;
-    wdata:q7200235 "KP0727" ;
+    wdata:Q7200235 "KP0727" ;
 .
 
 <urn:mdciii:1603:16:408:2:801>
@@ -1869,7 +1869,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Sariwon City"@eng-Latn ;
-    wdata:q7200235 "KP0801" ;
+    wdata:Q7200235 "KP0801" ;
 .
 
 <urn:mdciii:1603:16:408:2:802>
@@ -1881,7 +1881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Songrim City"@eng-Latn ;
-    wdata:q7200235 "KP0802" ;
+    wdata:Q7200235 "KP0802" ;
 .
 
 <urn:mdciii:1603:16:408:2:803>
@@ -1893,7 +1893,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Kaesong City"@eng-Latn ;
-    wdata:q7200235 "KP0803" ;
+    wdata:Q7200235 "KP0803" ;
 .
 
 <urn:mdciii:1603:16:408:2:804>
@@ -1905,7 +1905,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Jangphung"@eng-Latn ;
-    wdata:q7200235 "KP0804" ;
+    wdata:Q7200235 "KP0804" ;
 .
 
 <urn:mdciii:1603:16:408:2:805>
@@ -1917,7 +1917,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Hwangju"@eng-Latn ;
-    wdata:q7200235 "KP0805" ;
+    wdata:Q7200235 "KP0805" ;
 .
 
 <urn:mdciii:1603:16:408:2:806>
@@ -1929,7 +1929,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Yonthan"@eng-Latn ;
-    wdata:q7200235 "KP0806" ;
+    wdata:Q7200235 "KP0806" ;
 .
 
 <urn:mdciii:1603:16:408:2:807>
@@ -1941,7 +1941,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Pongsan"@eng-Latn ;
-    wdata:q7200235 "KP0807" ;
+    wdata:Q7200235 "KP0807" ;
 .
 
 <urn:mdciii:1603:16:408:2:808>
@@ -1953,7 +1953,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Unpha"@eng-Latn ;
-    wdata:q7200235 "KP0808" ;
+    wdata:Q7200235 "KP0808" ;
 .
 
 <urn:mdciii:1603:16:408:2:809>
@@ -1965,7 +1965,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Rinsan"@eng-Latn ;
-    wdata:q7200235 "KP0809" ;
+    wdata:Q7200235 "KP0809" ;
 .
 
 <urn:mdciii:1603:16:408:2:810>
@@ -1977,7 +1977,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Sohung"@eng-Latn ;
-    wdata:q7200235 "KP0810" ;
+    wdata:Q7200235 "KP0810" ;
 .
 
 <urn:mdciii:1603:16:408:2:811>
@@ -1989,7 +1989,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Suan"@eng-Latn ;
-    wdata:q7200235 "KP0811" ;
+    wdata:Q7200235 "KP0811" ;
 .
 
 <urn:mdciii:1603:16:408:2:812>
@@ -2001,7 +2001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Yonsan"@eng-Latn ;
-    wdata:q7200235 "KP0812" ;
+    wdata:Q7200235 "KP0812" ;
 .
 
 <urn:mdciii:1603:16:408:2:813>
@@ -2013,7 +2013,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Sinphyong"@eng-Latn ;
-    wdata:q7200235 "KP0813" ;
+    wdata:Q7200235 "KP0813" ;
 .
 
 <urn:mdciii:1603:16:408:2:814>
@@ -2025,7 +2025,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Koksan"@eng-Latn ;
-    wdata:q7200235 "KP0814" ;
+    wdata:Q7200235 "KP0814" ;
 .
 
 <urn:mdciii:1603:16:408:2:815>
@@ -2037,7 +2037,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Sinkye"@eng-Latn ;
-    wdata:q7200235 "KP0815" ;
+    wdata:Q7200235 "KP0815" ;
 .
 
 <urn:mdciii:1603:16:408:2:816>
@@ -2049,7 +2049,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Phyongsan"@eng-Latn ;
-    wdata:q7200235 "KP0816" ;
+    wdata:Q7200235 "KP0816" ;
 .
 
 <urn:mdciii:1603:16:408:2:817>
@@ -2061,7 +2061,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Kumchon"@eng-Latn ;
-    wdata:q7200235 "KP0817" ;
+    wdata:Q7200235 "KP0817" ;
 .
 
 <urn:mdciii:1603:16:408:2:818>
@@ -2073,7 +2073,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Thosan"@eng-Latn ;
-    wdata:q7200235 "KP0818" ;
+    wdata:Q7200235 "KP0818" ;
 .
 
 <urn:mdciii:1603:16:408:2:820>
@@ -2085,7 +2085,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Kangnam"@eng-Latn ;
-    wdata:q7200235 "KP0820" ;
+    wdata:Q7200235 "KP0820" ;
 .
 
 <urn:mdciii:1603:16:408:2:821>
@@ -2097,7 +2097,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Junghwa"@eng-Latn ;
-    wdata:q7200235 "KP0821" ;
+    wdata:Q7200235 "KP0821" ;
 .
 
 <urn:mdciii:1603:16:408:2:822>
@@ -2109,7 +2109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:8> ;
     skos:prefLabel "Sangwon"@eng-Latn ;
-    wdata:q7200235 "KP0822" ;
+    wdata:Q7200235 "KP0822" ;
 .
 
 <urn:mdciii:1603:16:408:2:901>
@@ -2121,7 +2121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Haeju City"@eng-Latn ;
-    wdata:q7200235 "KP0901" ;
+    wdata:Q7200235 "KP0901" ;
 .
 
 <urn:mdciii:1603:16:408:2:902>
@@ -2133,7 +2133,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Kangryong"@eng-Latn ;
-    wdata:q7200235 "KP0902" ;
+    wdata:Q7200235 "KP0902" ;
 .
 
 <urn:mdciii:1603:16:408:2:903>
@@ -2145,7 +2145,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Ongjin"@eng-Latn ;
-    wdata:q7200235 "KP0903" ;
+    wdata:Q7200235 "KP0903" ;
 .
 
 <urn:mdciii:1603:16:408:2:904>
@@ -2157,7 +2157,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Thaethan"@eng-Latn ;
-    wdata:q7200235 "KP0904" ;
+    wdata:Q7200235 "KP0904" ;
 .
 
 <urn:mdciii:1603:16:408:2:905>
@@ -2169,7 +2169,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Jangyon"@eng-Latn ;
-    wdata:q7200235 "KP0905" ;
+    wdata:Q7200235 "KP0905" ;
 .
 
 <urn:mdciii:1603:16:408:2:906>
@@ -2181,7 +2181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Samchon"@eng-Latn ;
-    wdata:q7200235 "KP0906" ;
+    wdata:Q7200235 "KP0906" ;
 .
 
 <urn:mdciii:1603:16:408:2:907>
@@ -2193,7 +2193,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Songhwa"@eng-Latn ;
-    wdata:q7200235 "KP0907" ;
+    wdata:Q7200235 "KP0907" ;
 .
 
 <urn:mdciii:1603:16:408:2:908>
@@ -2205,7 +2205,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Unryul"@eng-Latn ;
-    wdata:q7200235 "KP0908" ;
+    wdata:Q7200235 "KP0908" ;
 .
 
 <urn:mdciii:1603:16:408:2:909>
@@ -2217,7 +2217,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Unchon"@eng-Latn ;
-    wdata:q7200235 "KP0909" ;
+    wdata:Q7200235 "KP0909" ;
 .
 
 <urn:mdciii:1603:16:408:2:910>
@@ -2229,7 +2229,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Anak"@eng-Latn ;
-    wdata:q7200235 "KP0910" ;
+    wdata:Q7200235 "KP0910" ;
 .
 
 <urn:mdciii:1603:16:408:2:911>
@@ -2241,7 +2241,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Sinchon"@eng-Latn ;
-    wdata:q7200235 "KP0911" ;
+    wdata:Q7200235 "KP0911" ;
 .
 
 <urn:mdciii:1603:16:408:2:912>
@@ -2253,7 +2253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Jaerong"@eng-Latn ;
-    wdata:q7200235 "KP0912" ;
+    wdata:Q7200235 "KP0912" ;
 .
 
 <urn:mdciii:1603:16:408:2:913>
@@ -2265,7 +2265,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Sinwon"@eng-Latn ;
-    wdata:q7200235 "KP0913" ;
+    wdata:Q7200235 "KP0913" ;
 .
 
 <urn:mdciii:1603:16:408:2:914>
@@ -2277,7 +2277,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Pongchon"@eng-Latn ;
-    wdata:q7200235 "KP0914" ;
+    wdata:Q7200235 "KP0914" ;
 .
 
 <urn:mdciii:1603:16:408:2:915>
@@ -2289,7 +2289,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Paechon"@eng-Latn ;
-    wdata:q7200235 "KP0915" ;
+    wdata:Q7200235 "KP0915" ;
 .
 
 <urn:mdciii:1603:16:408:2:916>
@@ -2301,7 +2301,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Yonan"@eng-Latn ;
-    wdata:q7200235 "KP0916" ;
+    wdata:Q7200235 "KP0916" ;
 .
 
 <urn:mdciii:1603:16:408:2:917>
@@ -2313,7 +2313,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Chongdan"@eng-Latn ;
-    wdata:q7200235 "KP0917" ;
+    wdata:Q7200235 "KP0917" ;
 .
 
 <urn:mdciii:1603:16:408:2:918>
@@ -2325,7 +2325,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Ryongyon"@eng-Latn ;
-    wdata:q7200235 "KP0918" ;
+    wdata:Q7200235 "KP0918" ;
 .
 
 <urn:mdciii:1603:16:408:2:919>
@@ -2337,7 +2337,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Kwail"@eng-Latn ;
-    wdata:q7200235 "KP0919" ;
+    wdata:Q7200235 "KP0919" ;
 .
 
 <urn:mdciii:1603:16:408:2:920>
@@ -2349,6 +2349,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:408:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:408:1:9> ;
     skos:prefLabel "Pyoksong"@eng-Latn ;
-    wdata:q7200235 "KP0920" ;
+    wdata:Q7200235 "KP0920" ;
 .
 
